@@ -1,3 +1,3 @@
-## Youtube clone using vanilla html and css
+## Whatsapp Web clone using vanilla html and css
 
-![Laptop view](./images/laptopView.jpeg)
+![Laptop view](./images/whatsappWebSS.jpeg)
